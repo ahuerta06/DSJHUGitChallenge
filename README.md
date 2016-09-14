@@ -4,6 +4,7 @@ Repository to clone and push for the challenge on session 05.
 **ADD YOUR TEXT HERE:**
 
 STEPS:
+
 1. Fork this repository to your account.
 
 2. Clone a local copy of your forked repository
